@@ -1,0 +1,622 @@
+[
+  {
+    "name": "Gymshark Red T-Shirt",
+    "slug": "gymshark-red-tshirt",
+    "image": "https://plus.unsplash.com/premium_photo-1682092846845-d41a89d3ce8b?q=80&w=987&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+    "variants": [
+      {
+        "slug": "brand",
+        "optionSlug": "gymshark"
+      },
+      {
+        "slug": "size",
+        "optionSlug": "medium"
+      },
+      {
+        "slug": "color",
+        "optionSlug": "red"
+      },
+      {
+        "slug": "material",
+        "optionSlug": "cotton"
+      },
+      {
+        "slug": "gender",
+        "optionSlug": "men"
+      },
+      {
+        "slug": "type",
+        "optionSlug": "t-shirt"
+      }
+    ]
+  },
+  {
+    "name": "Nike Blue Hoodie",
+    "slug": "nike-blue-hoodie",
+    "image": "https://images.unsplash.com/photo-1617171594202-100a53bdfe04?q=80&w=987&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+    "variants": [
+      {
+        "slug": "brand",
+        "optionSlug": "nike"
+      },
+      {
+        "slug": "size",
+        "optionSlug": "large"
+      },
+      {
+        "slug": "color",
+        "optionSlug": "blue"
+      },
+      {
+        "slug": "material",
+        "optionSlug": "polyester"
+      },
+      {
+        "slug": "gender",
+        "optionSlug": "women"
+      },
+      {
+        "slug": "type",
+        "optionSlug": "hoodie"
+      }
+    ]
+  },
+  {
+    "name": "Adidas Black Joggers",
+    "slug": "adidas-black-joggers",
+    "image": "https://images.unsplash.com/photo-1552902875-9ac1f9fe0c07?q=80&w=987&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+    "variants": [
+      {
+        "slug": "brand",
+        "optionSlug": "adidas"
+      },
+      {
+        "slug": "size",
+        "optionSlug": "small"
+      },
+      {
+        "slug": "color",
+        "optionSlug": "black"
+      },
+      {
+        "slug": "material",
+        "optionSlug": "nylon"
+      },
+      {
+        "slug": "gender",
+        "optionSlug": "unisex"
+      },
+      {
+        "slug": "type",
+        "optionSlug": "joggers"
+      }
+    ]
+  },
+  {
+    "name": "Under Armour Green Shorts",
+    "slug": "under-armour-green-shorts",
+    "image": "https://plus.unsplash.com/premium_photo-1723553201287-ab9a8fbe57d1?q=80&w=987&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+    "variants": [
+      {
+        "slug": "brand",
+        "optionSlug": "under-armour"
+      },
+      {
+        "slug": "size",
+        "optionSlug": "medium"
+      },
+      {
+        "slug": "color",
+        "optionSlug": "green"
+      },
+      {
+        "slug": "material",
+        "optionSlug": "spandex"
+      },
+      {
+        "slug": "gender",
+        "optionSlug": "men"
+      },
+      {
+        "slug": "type",
+        "optionSlug": "shorts"
+      }
+    ]
+  },
+  {
+    "name": "Reebok White Jacket",
+    "slug": "reebok-white-jacket",
+    "image": "https://images.unsplash.com/photo-1643308003721-aa0440f10c9b?q=80&w=987&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+    "variants": [
+      {
+        "slug": "brand",
+        "optionSlug": "reebok"
+      },
+      {
+        "slug": "size",
+        "optionSlug": "large"
+      },
+      {
+        "slug": "color",
+        "optionSlug": "white"
+      },
+      {
+        "slug": "material",
+        "optionSlug": "wool"
+      },
+      {
+        "slug": "gender",
+        "optionSlug": "women"
+      },
+      {
+        "slug": "type",
+        "optionSlug": "jacket"
+      }
+    ]
+  },
+  {
+    "name": "Gymshark Black Hoodie",
+    "slug": "gymshark-black-hoodie",
+    "image": "https://images.unsplash.com/photo-1636170030727-11b73d53e1eb?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Mnx8YmxhY2slMjBob29kaWV8ZW58MHx8MHx8fDA%3D",
+    "variants": [
+      {
+        "slug": "brand",
+        "optionSlug": "gymshark"
+      },
+      {
+        "slug": "size",
+        "optionSlug": "x-large"
+      },
+      {
+        "slug": "color",
+        "optionSlug": "black"
+      },
+      {
+        "slug": "material",
+        "optionSlug": "cotton"
+      },
+      {
+        "slug": "gender",
+        "optionSlug": "unisex"
+      },
+      {
+        "slug": "type",
+        "optionSlug": "hoodie"
+      }
+    ]
+  },
+  {
+    "name": "Adidas Red T-Shirt",
+    "slug": "adidas-red-tshirt",
+    "image": "https://plus.unsplash.com/premium_photo-1697876203137-3a87c8f066c1?q=80&w=987&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+    "variants": [
+      {
+        "slug": "brand",
+        "optionSlug": "adidas"
+      },
+      {
+        "slug": "size",
+        "optionSlug": "medium"
+      },
+      {
+        "slug": "color",
+        "optionSlug": "red"
+      },
+      {
+        "slug": "material",
+        "optionSlug": "cotton"
+      },
+      {
+        "slug": "gender",
+        "optionSlug": "women"
+      },
+      {
+        "slug": "type",
+        "optionSlug": "t-shirt"
+      }
+    ]
+  },
+  {
+    "name": "Nike White Shorts",
+    "slug": "nike-white-shorts",
+    "image": "https://images.unsplash.com/photo-1460353581641-37baddab0fa2?q=80&w=1171&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+    "variants": [
+      {
+        "slug": "brand",
+        "optionSlug": "nike"
+      },
+      {
+        "slug": "size",
+        "optionSlug": "small"
+      },
+      {
+        "slug": "color",
+        "optionSlug": "white"
+      },
+      {
+        "slug": "material",
+        "optionSlug": "polyester"
+      },
+      {
+        "slug": "gender",
+        "optionSlug": "women"
+      },
+      {
+        "slug": "type",
+        "optionSlug": "shorts"
+      }
+    ]
+  },
+  {
+    "name": "Reebok Blue Joggers",
+    "slug": "reebok-blue-joggers",
+    "image": "https://images.unsplash.com/photo-1541694458248-5aa2101c77df?q=80&w=987&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+    "variants": [
+      {
+        "slug": "brand",
+        "optionSlug": "reebok"
+      },
+      {
+        "slug": "size",
+        "optionSlug": "xx-large"
+      },
+      {
+        "slug": "color",
+        "optionSlug": "blue"
+      },
+      {
+        "slug": "material",
+        "optionSlug": "nylon"
+      },
+      {
+        "slug": "gender",
+        "optionSlug": "men"
+      },
+      {
+        "slug": "type",
+        "optionSlug": "joggers"
+      }
+    ]
+  },
+  {
+    "name": "Under Armour Black T-Shirt",
+    "slug": "under-armour-black-tshirt",
+    "image": "https://images.unsplash.com/photo-1618453292610-4119319e5ac7?q=80&w=1064&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+    "variants": [
+      {
+        "slug": "brand",
+        "optionSlug": "under-armour"
+      },
+      {
+        "slug": "size",
+        "optionSlug": "large"
+      },
+      {
+        "slug": "color",
+        "optionSlug": "black"
+      },
+      {
+        "slug": "material",
+        "optionSlug": "spandex"
+      },
+      {
+        "slug": "gender",
+        "optionSlug": "unisex"
+      },
+      {
+        "slug": "type",
+        "optionSlug": "t-shirt"
+      }
+    ]
+  },
+  {
+    "name": "Puma Gray Hoodie",
+    "slug": "puma-gray-hoodie",
+    "image": "https://images.unsplash.com/photo-1622866654199-d36cf0709720?q=80&w=1887&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+    "variants": [
+      {
+        "slug": "brand",
+        "optionSlug": "puma"
+      },
+      {
+        "slug": "size",
+        "optionSlug": "medium"
+      },
+      {
+        "slug": "color",
+        "optionSlug": "gray"
+      },
+      {
+        "slug": "material",
+        "optionSlug": "cotton"
+      },
+      {
+        "slug": "gender",
+        "optionSlug": "men"
+      },
+      {
+        "slug": "type",
+        "optionSlug": "hoodie"
+      }
+    ]
+  },
+  {
+    "name": "Nike Black Leggings",
+    "slug": "nike-black-leggings",
+    "image": "https://images.unsplash.com/photo-1521161235081-1f79d1d08236?q=80&w=916&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+    "variants": [
+      {
+        "slug": "brand",
+        "optionSlug": "nike"
+      },
+      {
+        "slug": "size",
+        "optionSlug": "small"
+      },
+      {
+        "slug": "color",
+        "optionSlug": "black"
+      },
+      {
+        "slug": "material",
+        "optionSlug": "spandex"
+      },
+      {
+        "slug": "gender",
+        "optionSlug": "women"
+      },
+      {
+        "slug": "type",
+        "optionSlug": "leggings"
+      }
+    ]
+  },
+  {
+    "name": "Adidas White Sneakers",
+    "slug": "adidas-white-sneakers",
+    "image": "https://images.unsplash.com/photo-1603145733351-67e2066addad?q=80&w=987&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+    "variants": [
+      {
+        "slug": "brand",
+        "optionSlug": "adidas"
+      },
+      {
+        "slug": "size",
+        "optionSlug": "large"
+      },
+      {
+        "slug": "color",
+        "optionSlug": "white"
+      },
+      {
+        "slug": "material",
+        "optionSlug": "leather"
+      },
+      {
+        "slug": "gender",
+        "optionSlug": "unisex"
+      },
+      {
+        "slug": "type",
+        "optionSlug": "sneakers"
+      }
+    ]
+  },
+  {
+    "name": "Reebok Green T-Shirt",
+    "slug": "reebok-green-tshirt",
+    "image": "https://images.unsplash.com/photo-1666453639536-582dc0f23424?q=80&w=987&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+    "variants": [
+      {
+        "slug": "brand",
+        "optionSlug": "reebok"
+      },
+      {
+        "slug": "size",
+        "optionSlug": "medium"
+      },
+      {
+        "slug": "color",
+        "optionSlug": "green"
+      },
+      {
+        "slug": "material",
+        "optionSlug": "cotton"
+      },
+      {
+        "slug": "gender",
+        "optionSlug": "men"
+      },
+      {
+        "slug": "type",
+        "optionSlug": "t-shirt"
+      }
+    ]
+  },
+  {
+    "name": "Under Armour Black Shorts",
+    "slug": "under-armour-black-shorts",
+    "image": "https://images.unsplash.com/photo-1659989183952-8adb74ddcd35?q=80&w=927&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+    "variants": [
+      {
+        "slug": "brand",
+        "optionSlug": "under-armour"
+      },
+      {
+        "slug": "size",
+        "optionSlug": "large"
+      },
+      {
+        "slug": "color",
+        "optionSlug": "black"
+      },
+      {
+        "slug": "material",
+        "optionSlug": "nylon"
+      },
+      {
+        "slug": "gender",
+        "optionSlug": "men"
+      },
+      {
+        "slug": "type",
+        "optionSlug": "shorts"
+      }
+    ]
+  },
+  {
+    "name": "Gymshark Blue T-Shirt",
+    "slug": "gymshark-blue-tshirt",
+    "image": "https://plus.unsplash.com/premium_photo-1663013209326-2ddaf5e0ca5e?q=80&w=988&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+    "variants": [
+      {
+        "slug": "brand",
+        "optionSlug": "gymshark"
+      },
+      {
+        "slug": "size",
+        "optionSlug": "small"
+      },
+      {
+        "slug": "color",
+        "optionSlug": "blue"
+      },
+      {
+        "slug": "material",
+        "optionSlug": "polyester"
+      },
+      {
+        "slug": "gender",
+        "optionSlug": "unisex"
+      },
+      {
+        "slug": "type",
+        "optionSlug": "t-shirt"
+      }
+    ]
+  },
+  {
+    "name": "Puma Red Hoodie",
+    "slug": "puma-red-hoodie",
+    "image": "https://images.unsplash.com/photo-1606685544086-ce4ab1b91c21?q=80&w=880&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+    "variants": [
+      {
+        "slug": "brand",
+        "optionSlug": "puma"
+      },
+      {
+        "slug": "size",
+        "optionSlug": "medium"
+      },
+      {
+        "slug": "color",
+        "optionSlug": "red"
+      },
+      {
+        "slug": "material",
+        "optionSlug": "cotton"
+      },
+      {
+        "slug": "gender",
+        "optionSlug": "women"
+      },
+      {
+        "slug": "type",
+        "optionSlug": "hoodie"
+      }
+    ]
+  },
+  {
+    "name": "Adidas Black Cap",
+    "slug": "adidas-black-cap",
+    "image": "https://images.unsplash.com/photo-1635163103213-043efbb0e7f6?q=80&w=870&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+    "variants": [
+      {
+        "slug": "brand",
+        "optionSlug": "adidas"
+      },
+      {
+        "slug": "size",
+        "optionSlug": "one-size"
+      },
+      {
+        "slug": "color",
+        "optionSlug": "black"
+      },
+      {
+        "slug": "material",
+        "optionSlug": "cotton"
+      },
+      {
+        "slug": "gender",
+        "optionSlug": "unisex"
+      },
+      {
+        "slug": "type",
+        "optionSlug": "cap"
+      }
+    ]
+  },
+  {
+    "name": "Reebok White Hoodie",
+    "slug": "reebok-white-hoodie",
+    "image": "https://images.unsplash.com/photo-1611768309028-04a36c8a4cec?q=80&w=987&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+    "variants": [
+      {
+        "slug": "brand",
+        "optionSlug": "reebok"
+      },
+      {
+        "slug": "size",
+        "optionSlug": "large"
+      },
+      {
+        "slug": "color",
+        "optionSlug": "white"
+      },
+      {
+        "slug": "material",
+        "optionSlug": "cotton"
+      },
+      {
+        "slug": "gender",
+        "optionSlug": "men"
+      },
+      {
+        "slug": "type",
+        "optionSlug": "hoodie"
+      }
+    ]
+  },
+  {
+    "name": "Nike Gray Sweatpants",
+    "slug": "nike-gray-sweatpants",
+    "image": "https://images.unsplash.com/photo-1506638794690-bbea5c6f0ab7?q=80&w=987&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+    "variants": [
+      {
+        "slug": "brand",
+        "optionSlug": "nike"
+      },
+      {
+        "slug": "size",
+        "optionSlug": "medium"
+      },
+      {
+        "slug": "color",
+        "optionSlug": "gray"
+      },
+      {
+        "slug": "material",
+        "optionSlug": "fleece"
+      },
+      {
+        "slug": "gender",
+        "optionSlug": "men"
+      },
+      {
+        "slug": "type",
+        "optionSlug": "sweatpants"
+      }
+    ]
+  }
+]

@@ -1,0 +1,182 @@
+[
+  {
+    "title": "Brand",
+    "slug": "brand",
+    "options": [
+      {
+        "title": "Gymshark",
+        "slug": "gymshark"
+      },
+      {
+        "title": "Nike",
+        "slug": "nike"
+      },
+      {
+        "title": "Adidas",
+        "slug": "adidas"
+      },
+      {
+        "title": "Under Armour",
+        "slug": "under-armour"
+      },
+      {
+        "title": "Reebok",
+        "slug": "reebok"
+      },
+      {
+        "title": "Puma",
+        "slug": "puma"
+      }
+    ]
+  },
+  {
+    "title": "Size",
+    "slug": "size",
+    "options": [
+      {
+        "title": "One-size",
+        "slug": "one-size"
+      },
+      {
+        "title": "Small",
+        "slug": "small"
+      },
+      {
+        "title": "Medium",
+        "slug": "medium"
+      },
+      {
+        "title": "Large",
+        "slug": "large"
+      },
+      {
+        "title": "X-Large",
+        "slug": "x-large"
+      },
+      {
+        "title": "XX-Large",
+        "slug": "xx-large"
+      }
+    ]
+  },
+  {
+    "title": "Color",
+    "slug": "color",
+    "options": [
+      {
+        "title": "Red",
+        "slug": "red"
+      },
+      {
+        "title": "Blue",
+        "slug": "blue"
+      },
+      {
+        "title": "Black",
+        "slug": "black"
+      },
+      {
+        "title": "White",
+        "slug": "white"
+      },
+      {
+        "title": "Green",
+        "slug": "green"
+      },
+      {
+        "title": "Gray",
+        "slug": "gray"
+      }
+    ]
+  },
+  {
+    "title": "Material",
+    "slug": "material",
+    "options": [
+      {
+        "title": "Cotton",
+        "slug": "cotton"
+      },
+      {
+        "title": "Polyester",
+        "slug": "polyester"
+      },
+      {
+        "title": "Nylon",
+        "slug": "nylon"
+      },
+      {
+        "title": "Wool",
+        "slug": "wool"
+      },
+      {
+        "title": "Spandex",
+        "slug": "spandex"
+      },
+      {
+        "title": "Leather",
+        "slug": "leather"
+      },
+      {
+        "title": "Fleece",
+        "slug": "fleece"
+      }
+    ]
+  },
+  {
+    "title": "Gender",
+    "slug": "gender",
+    "options": [
+      {
+        "title": "Men",
+        "slug": "men"
+      },
+      {
+        "title": "Women",
+        "slug": "women"
+      },
+      {
+        "title": "Unisex",
+        "slug": "unisex"
+      }
+    ]
+  },
+  {
+    "title": "Type",
+    "slug": "type",
+    "options": [
+      {
+        "title": "T-Shirt",
+        "slug": "t-shirt"
+      },
+      {
+        "title": "Hoodie",
+        "slug": "hoodie"
+      },
+      {
+        "title": "Shorts",
+        "slug": "shorts"
+      },
+      {
+        "title": "Joggers",
+        "slug": "joggers"
+      },
+      {
+        "title": "Jacket",
+        "slug": "jacket"
+      },
+      {
+        "title": "Sneakers",
+        "slug": "sneakers"
+      },
+      {
+        "title": "Cap",
+        "slug": "cap"
+      },
+      {
+        "title": "Sweatpants",
+        "slug": "sweatpants"
+      }
+    ]
+  }
+]
