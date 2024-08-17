@@ -1,5 +1,8 @@
+**Product filtering example with next.js & drizzle orm**
+
 # Demo
 
+https://github.com/user-attachments/assets/ebf43a23-df55-4024-a7fa-d2c828bb70c3
 
 # How to run
 
@@ -11,4 +14,4 @@
 3. run `pnpm db:seed-cozy` to seed the database
 4. start the app `pnpm dev`
 
-5. play around with it, I don't think my implementation is  the best one could think of, so pull requests are exteremely welcome!
+5. play around with it, I don't think my implementation is the best one could think of, so pull requests are exteremely welcome!
